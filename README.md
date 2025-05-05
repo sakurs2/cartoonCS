@@ -1,2 +1,4 @@
 # cartoonCS
-Computer science knowledge told to girlfriend through cartoon
+
+**讲给女朋友听的计算机漫话系列**源文件仓库
+- [漫画爬虫](./spider/)
